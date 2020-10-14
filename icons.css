@@ -1,0 +1,17 @@
+svg {
+	width:	24px;
+}
+
+#TextColor {
+	fill:			gray;
+}
+
+#TextColor-line {
+	stroke:			gray;
+	stroke-width:	1.5px;
+	stroke-linecap:	butt;
+}
+
+#HighlightColor {
+	fill:			red;
+}
